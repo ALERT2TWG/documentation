@@ -12,7 +12,7 @@ A Google Groups email account (ALERT2TWG@groups.google.com) has been created.  M
 from the group administrator.  Members of the public may request membership.  All group communications are visible to the public.
 
 To initiate an email discussion, simply click the red "New Topic" button in the upper left of the ALERT2 TWG group site page:
-https://groups. google.com/forum/#!forum/ALERT2TWG
+https://groups.google.com/forum/#!forum/alert2twg
 
 When you receive an email from the group on a particular topic, simply reply to the group email to add your contribution to the
 discussion of that topic.
